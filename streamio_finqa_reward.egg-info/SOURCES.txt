@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+streamio_finqa_reward/__init__.py
+streamio_finqa_reward/finqa.py
+streamio_finqa_reward.egg-info/PKG-INFO
+streamio_finqa_reward.egg-info/SOURCES.txt
+streamio_finqa_reward.egg-info/dependency_links.txt
+streamio_finqa_reward.egg-info/top_level.txt
